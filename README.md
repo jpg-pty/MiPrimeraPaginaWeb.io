@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-
+<>
 
 body {
 	color: pink; font: courier new;
@@ -25,6 +25,7 @@ b {
 
 li {
    color: purple;
+
 </style>
 </head>
 <body style="background-color: black;" >
@@ -52,6 +53,11 @@ li {
 <li>Escribir </li>
 <li>Tomar fotografias</li> </p>
 
+<h2>Redes Sociales</h2>
+
+<p>instagram: <a href="https://www.instagram.com/p/BzoUcIJnchd/?utm_source=ig_web_copy_link"> Instagram</a>
+<BR> 
+Correo Electronico: <a href="https://mail.google.com/mail/u/0/#inbox">jenellapaola20@gmail.com</a>
 
 
 </body>
